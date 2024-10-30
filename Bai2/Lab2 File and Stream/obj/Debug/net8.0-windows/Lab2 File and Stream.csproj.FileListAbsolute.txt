@@ -1,0 +1,7 @@
+D:\Lập trình mạng căn bản lý thuyết\Lab2\Lab2 File and Stream\Lab2 File and Stream\obj\Debug\net8.0-windows\Lab2_File_and_Stream.Form1.resources
+D:\Lập trình mạng căn bản lý thuyết\Lab2\Lab2 File and Stream\Lab2 File and Stream\obj\Debug\net8.0-windows\Lab2_File_and_Stream.Properties.Resources.resources
+D:\Lập trình mạng căn bản lý thuyết\Lab2\Lab2 File and Stream\Lab2 File and Stream\obj\Debug\net8.0-windows\Lab2 File and Stream.csproj.GenerateResource.cache
+D:\Lập trình mạng căn bản lý thuyết\Lab2\Lab2 File and Stream\Lab2 File and Stream\obj\Debug\net8.0-windows\Lab2 File and Stream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình mạng căn bản lý thuyết\Lab2\Lab2 File and Stream\Lab2 File and Stream\obj\Debug\net8.0-windows\Lab2 File and Stream.AssemblyInfoInputs.cache
+D:\Lập trình mạng căn bản lý thuyết\Lab2\Lab2 File and Stream\Lab2 File and Stream\obj\Debug\net8.0-windows\Lab2 File and Stream.AssemblyInfo.cs
+D:\Lập trình mạng căn bản lý thuyết\Lab2\Lab2 File and Stream\Lab2 File and Stream\obj\Debug\net8.0-windows\Lab2 File and Stream.csproj.CoreCompileInputs.cache
